@@ -354,7 +354,7 @@ footer ul li a:hover{
     height: 100%;
     z-index: 20000;
     background-color:var(--color-white);
-    display:none;
+    display:flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
