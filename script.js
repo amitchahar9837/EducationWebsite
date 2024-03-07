@@ -39,7 +39,7 @@ closeBtn.addEventListener('click',function(){
     menuBtn.style.display="inline-block";
 })
 
-Website Loader Animation
+// Website Loader Animation
 function loader(){
     document.querySelector('.loader-container').classList.add('fade-out');  
   }
